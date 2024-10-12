@@ -8,3 +8,5 @@ let totalMarks = math + biology + chemistry + physics + bangla;
 let averageMarks = totalMarks / 5;
 
 console.log(averageMarks.toFixed(2));
+
+// bangladesh
